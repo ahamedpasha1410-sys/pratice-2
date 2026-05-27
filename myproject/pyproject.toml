@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "myproject"
+version = "0.1.0"
+description = ""
+authors = ["ahamedpasha1410-sys <ahamedpasha1410@gmail.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.12"
+
+[tool.poetry.group.dev.dependencies]
+pytest = "^8.0.0"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
