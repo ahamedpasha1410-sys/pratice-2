@@ -24,6 +24,27 @@ pip install -r requirements.txt
 ## Run the Example
 python example.py
 ```
+# Python venv + Poetry Demo
+
+This project demonstrates two ways to manage Python dependencies:
+
+1. Traditional virtual environment (`venv`)
+2. Modern dependency manager (`Poetry`)
+
+---
+
+## Example Script
+
+`example.py` fetches your public IP using the `requests` library.
+
+---
+
+# 1. Setup using venv (traditional way)
+
+## Step 1: Create virtual environment
+
+```bash
+python -m venv venv
 
 ## How Execution Happens
 
