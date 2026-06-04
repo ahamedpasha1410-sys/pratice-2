@@ -26,3 +26,6 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+response = requests.get("https://jsonplaceholder.typicode.com/todos/1")
+print(response.json())
