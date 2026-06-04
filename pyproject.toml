@@ -3,6 +3,7 @@ name = "myproject12"
 version = "0.1.0"
 description = ""
 [tool.poetry]
+package-mode = false
 name = "pratice-2"
 version = "0.1.0"
 package-mode = false
