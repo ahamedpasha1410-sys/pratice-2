@@ -2,6 +2,10 @@
 name = "myproject12"
 version = "0.1.0"
 description = ""
+[tool.poetry]
+name = "pratice-2"
+version = "0.1.0"
+package-mode = false
 authors = [
     {name = "ahamedpasha1410-sys",email = "ahamedpasha1410@gmail.com"}
 ]
