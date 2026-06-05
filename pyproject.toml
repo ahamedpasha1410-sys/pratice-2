@@ -1,5 +1,5 @@
 [project]
-name = "myproject12"
+name = "pratice-2"
 version = "0.1.0"
 description = ""
 [tool.poetry]
@@ -12,6 +12,7 @@ authors = [
 ]
 requires-python = ">=3.12"
 dependencies = [
+    "requests (>=2.34.2,<3.0.0)"
 ]
 
 
